@@ -9,7 +9,7 @@ for i in xrange(0,height,1):
             sys.stdout.write(" ")
             sys.stdout.write("xxx")
             for k in xrange(0,space,1):
-                                                                                        sys.stdout.write("xxx")
+                                                                                        sys.stdout.write("OOO")
 
                                                                                                 for j in xrange(0,i,1):
                                                                                                                 sys.stdout.write(" ")
